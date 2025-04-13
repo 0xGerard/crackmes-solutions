@@ -3,6 +3,7 @@
 - Dificultad: 2.0
 - Protección: Ninguna
 - Objetivo: Encontrar una serial válida para pasar el programa.
+- Crackmes url: https://crackmes.one/crackme/67fa22568f555589f3530a94
 
 # Analisis inicial
 Ejecutamos el binario, nos pide el serial
