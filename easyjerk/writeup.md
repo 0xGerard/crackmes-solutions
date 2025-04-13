@@ -1,8 +1,8 @@
-Autor: @0xGerard
-Plataforma: Linux (ELF 64-bit)
-Dificultad: 2.0
-Protección: Ninguna
-Objetivo: Encontrar una serial válida para pasar el programa.
+- Autor: @0xGerard
+- Plataforma: Linux (ELF 64-bit)
+- Dificultad: 2.0
+- Protección: Ninguna
+- Objetivo: Encontrar una serial válida para pasar el programa.
 
 # Analisis inicial
 Ejecutamos el binario, nos pide el serial
