@@ -103,3 +103,8 @@ int main(){
     return 0;
 }
 ```
+
+Compilamos y ejecutamos
+```console
+gcc -o serial serial.c && ./serial
+```
