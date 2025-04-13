@@ -1,3 +1,4 @@
+# Easyjerk
 - Autor: @0xGerard
 - Plataforma: Linux (ELF 64-bit)
 - Dificultad: 2.0
@@ -61,7 +62,7 @@ __int64 __fastcall transform(unsigned __int8 a1, char a2)
 }
 ```
 
-La función `transform` recibe un caracter y el indice; aplica varias operaciones al caracter antes de retornarlo.
+La función `transform` recibe un caracter y el indice del serial; aplica varias operaciones al caracter antes de retornarlo.
 
 # Solución: Ataque de fuerza bruta
 Para encontrar el serial escribiremos un programa que pruebe con cada caracter del alfabeto, aplicamos las operaciones y lo comparamos con los caracteres de `v3`.
